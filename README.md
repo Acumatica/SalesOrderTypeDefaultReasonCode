@@ -25,7 +25,7 @@ Quick Start
 2. Navigate to Order Types Screen (SO201000) and select the Order Type for which you need to specify the reason code. Specify the Combine Sales Sub From and Reason Code fields.
 ![Screenshot](/_ReadMeImages/SO201000.png)
 
-3. Navigate to Sales Orders Screen (SO301000), select a the configured Order Type, add the sub account column to the grid if needed (hidden by default). When you add a document with an Inventory ID you should be able to see the default reason code and the Sub Acount fields already populated.
+3. Navigate to Sales Orders Screen (SO301000), select the configured Order Type, add the sub account column to the grid if needed (hidden by default). When you add a document with an Inventory ID you should be able to see the default reason code and the Sub Acount fields already populated.
 ![Screenshot](/_ReadMeImages/SO301000.png)
 
 Known Issues
